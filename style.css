@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "akira-expanded";
+  src: url("resources/AkiraExpandedSwedish.ttf");
+}
+
+:root {
+  --akira: "akira-expanded", sans-serif;
+  --futura: "futura-pt", sans-serif;
+  --basic-sans: "basic-sans", sans-serif;
+}
+
+body {
+  background-color: #ddd;
+
+  border-color: black;
+  border-width: 0.1vw;
+  border-style: solid;
+
+  margin: 1rem;
+  margin-bottom: 0;
+
+  font-family: var(--basic-sans);
+}
+
+h1 {
+  font-family: var(--akira);
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: var(--futura);
+}
+
+header {
+  display: grid;
+  grid-template-rows: 8% 35% 47% 10%;
+
+  height: calc(100vh - 1rem - 0.1vw);
+}
+
+header h1 {
+  font-family: var(--akira);
+}
+
+.group-name {
+  font-family: var(--akira);
+
+  margin: 1rem;
+}
+
+.group-name p {
+  margin: 0;
+}
+
+.header-container-1 {
+  height: fit-content;
+
+  margin-top: auto;
+}
+
+.header-container-1 h1, .header-container-2 h1 {
+  margin: 0;
+
+  font-size: 5rem;
+}
+
+.lower-header-container {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr 1fr;
+}
+
+.header-container-2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-container-2 h2 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.header-container-1, .header-container-2 {
+  margin-left: 2rem;
+}
+
+.lower-header-container img {
+  height: calc((100vh - 1rem - 0.1vw) / 100 * 47);
+}
