@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 51.83 271.45">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 5.98px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #000;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        stroke-width: 3.99px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" y="0" width="51.83" height="271.45"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" y="0" width="51.83" height="271.45"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Penna">
+      <g class="cls-5">
+        <g class="cls-4">
+          <path class="cls-1" d="M2.99,226.33h45.85V10.88c0-4.36-3.53-7.89-7.89-7.89H10.88c-4.36,0-7.89,3.53-7.89,7.89v215.44Z"/>
+          <polygon class="cls-1" points="25.92 268.46 48.84 226.33 2.99 226.33 25.92 268.46"/>
+          <polygon class="cls-3" points="25.92 268.46 37.05 248.01 14.79 248.01 25.92 268.46"/>
+          <line class="cls-3" x1="48.84" y1="45.8" x2="2.99" y2="45.8"/>
+          <line class="cls-3" x1="48.84" y1="38.23" x2="2.99" y2="38.23"/>
+          <line class="cls-3" x1="34.02" y1="225.57" x2="34.02" y2="45.8"/>
+          <line class="cls-3" x1="17.81" y1="225.57" x2="17.81" y2="45.8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

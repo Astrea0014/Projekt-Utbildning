@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 334.01 67.24">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .12em;
+      }
+
+      .cls-2 {
+        letter-spacing: .13em;
+      }
+
+      .cls-3 {
+        letter-spacing: .07em;
+      }
+
+      .cls-4 {
+        letter-spacing: .07em;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        letter-spacing: .06em;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-9 {
+        letter-spacing: .07em;
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-11 {
+        letter-spacing: .05em;
+      }
+
+      .cls-12 {
+        font-family: AkiraExpanded-SuperBold, 'Akira Expanded';
+        font-size: 31.92px;
+        font-weight: 700;
+      }
+
+      .cls-13 {
+        letter-spacing: .12em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-6" y="0" width="334.01" height="67.24"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-6" y="0" width="334.01" height="67.24"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Textlogga">
+      <g class="cls-10">
+        <g class="cls-8">
+          <text class="cls-12" transform="translate(0 27.13)"><tspan class="cls-11" x="0" y="0">F</tspan><tspan x="27.86" y="0">ra</tspan><tspan class="cls-9" x="89.38" y="0">m</tspan><tspan class="cls-3" x="128.99" y="0">t</tspan><tspan class="cls-1" x="159.27" y="0">i</tspan><tspan class="cls-7" x="171.76" y="0">d</tspan><tspan class="cls-13" x="202.78" y="0">e</tspan><tspan class="cls-4" x="231.62" y="0">n</tspan><tspan x="263" y="0">s</tspan></text>
+          <text class="cls-12" transform="translate(93.83 61.12)"><tspan x="0" y="0">-</tspan></text>
+          <text class="cls-12" transform="translate(125.01 61.12)"><tspan x="0" y="0">lara</tspan><tspan class="cls-2" x="119.47" y="0">n</tspan><tspan class="cls-7" x="152.82" y="0">d</tspan><tspan x="183.84" y="0">e</tspan></text>
+          <path class="cls-5" d="M168.57,36.73c-.63-1.68.23-3.55,1.91-4.18s3.55.23,4.18,1.91-.23,3.55-1.91,4.18-3.55-.23-4.18-1.91"/>
+          <path class="cls-5" d="M158.66,36.73c-.63-1.68.23-3.55,1.91-4.18s3.55.23,4.18,1.91-.23,3.55-1.91,4.18-3.55-.23-4.18-1.91"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

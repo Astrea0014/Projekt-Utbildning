@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 195.91 195.91">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 27.71px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #7562a8;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #7562a8;
+      }
+
+      .cls-4, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        stroke-width: 5.54px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" y="0" width="195.91" height="195.91"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-2" y="0" width="195.91" height="195.91"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="instagram">
+      <g class="cls-6">
+        <g class="cls-5">
+          <path class="cls-1" d="M161.19,182.06H34.73c-11.48,0-20.87-9.39-20.87-20.87V34.73c0-11.48,9.39-20.87,20.87-20.87h126.46c11.48,0,20.87,9.39,20.87,20.87v126.45c0,11.48-9.39,20.87-20.87,20.87Z"/>
+          <path class="cls-1" d="M128.93,94.12c0,17.1-13.87,30.97-30.97,30.97s-30.98-13.87-30.98-30.97,13.87-30.97,30.98-30.97,30.97,13.87,30.97,30.97Z"/>
+          <path class="cls-4" d="M160.41,46.05c0,4.63-3.75,8.37-8.37,8.37s-8.37-3.75-8.37-8.37,3.75-8.37,8.37-8.37,8.37,3.75,8.37,8.37"/>
+          <circle class="cls-3" cx="152.04" cy="46.05" r="8.37"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
